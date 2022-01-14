@@ -1,0 +1,2 @@
+# cbr-dde
+A new methodology called Case-based Reasoning for Dynamic Distributed Environments (CBR-DDE) was introduced, based on the Case-based Reasoning (CBR) methodology. The goal was to obtain solutions (the outcome of the automatic negotiation) that decrease the average response time of the system to a new disruption problem, increasing its degree of trustworthiness, while maintaining the level of quality of the solutions presented.
